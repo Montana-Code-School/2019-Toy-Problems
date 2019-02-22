@@ -1,5 +1,5 @@
 const chai = require('chai');
-const {checkMe, getHiLoFrmArray} = require('./index');
+const {checkMe, getHiLoFrmArray} = require('./hiLoArr');
 
 const expect = chai.expect;
 
