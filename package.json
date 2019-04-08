@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/_mocha rmvTest.js"
+    "test": "./node_modules/.bin/_mocha sumSquareTest.js"
   },
   "author": "",
   "license": "ISC",
